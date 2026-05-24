@@ -51,6 +51,6 @@ The College Website is a responsive multi-page web application developed using H
 
 ##  Contact
 
-GitHub: https://github.com/Thiyagaraj2006
-LinkedIn: https://www.linkedin.com/in/thiyagaraj-d-545788328
+* GitHub: https://github.com/Thiyagaraj2006
+* LinkedIn: https://www.linkedin.com/in/thiyagaraj-d-545788328
 
